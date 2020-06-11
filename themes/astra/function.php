@@ -281,7 +281,7 @@ function custom_redirect_after_purchase() {
 	global $wp;
 	
 	if ( is_checkout() && ! empty( $wp->query_vars['order-received'] ) ) {
-		wp_redirect( 'https://online.iide.co/thank-you/' );
+		wp_redirect( 'https://online.iide.co/thank-you/?user' );
 		exit;
 	}
 }
