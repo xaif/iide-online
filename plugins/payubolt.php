@@ -91,7 +91,7 @@ color="e34524" bolt-logo="http://boltiswatching.com/wp-content/uploads/2015/09/B
 	  }
 	  else { ?>
 	      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" >
-          <script id="bolt" src="https://checkout-static.citruspay.com/bolt/run/bolt.min.js" bolt-color="e34524" bolt-logo="http://boltiswatching.com/wp-content/uploads/2015/09/Bolt-Logo-e14421724859591.png"></script>
+          <script id="bolt" src="https://checkout-static.citruspay.com/bolt/run/bolt.min.js" bolt-color="27aae1" bolt-logo="https://online.iide.co/wp-content/uploads/2020/05/70.svg"></script>
       <?php
 	  }
     }
